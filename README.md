@@ -1,4 +1,4 @@
-# Bootcamp Go Stack 13: Desafio 03 (Conceitos do ReactJS) 
+# Go Stack 13: Desafio 03 
 
 <h3>
     <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs">📑 Acessar detalhes do desafio</a>
