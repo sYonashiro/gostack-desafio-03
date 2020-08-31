@@ -1,4 +1,4 @@
-# Go Stack 13: Desafio 03 
+# Rocketseat Go Stack 13: Desafio 03 
 
 <h3>
     <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs">📑 Acessar detalhes do desafio</a>
@@ -7,7 +7,7 @@
 ---
 
 ## 🔖&nbsp; Sobre
-O projeto é uma aplicação web desenvolvida dentro do curso **Bootcamp GoStack**, referente ao **Desafio 03: Conceitos do ReactJS**.
+O projeto é uma aplicação web desenvolvida dentro do curso **Bootcamp GoStack** da [@Rocketseat](https://github.com/Rocketseat), referente ao **Desafio 03: Conceitos do ReactJS**.
 
 ## 🚀 Tecnologias utilizadas
 
