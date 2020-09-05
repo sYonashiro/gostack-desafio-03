@@ -26,6 +26,9 @@ O projeto é uma aplicação web desenvolvida dentro do curso **Bootcamp GoStack
     # Entrar no diretório
     $ cd gostack-desafio-03
     
+    # Instalar as dependências
+    $ yarn install
+    
     # Iniciar o projeto
     $ yarn start
 ```
